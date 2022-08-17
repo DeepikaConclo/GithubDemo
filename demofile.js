@@ -1,6 +1,6 @@
 
-let a = 100;
+let a = 400;
 let b = 30;
 
-const c = a+b;
+const c = a*b;
 console.log(c);
